@@ -58,6 +58,8 @@ Path Parameters
 | appName | string | The name of the vault secrets application where the key is stored | True |
 | secretName | string | The name of the secrets' key you want to retrieve | True |
 
+![](https://github.com/JustinBatchelor/hcp-vault-secrets/blob/37ad8ca3c33e52dc256d3c187a05169665283192/docs/pics/hcp-topo.png?raw=true)
+
 **EXAMPLES**
 
     import hcp_vault_secrets.vaultsecrets as vaultsecrets
